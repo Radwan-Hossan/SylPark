@@ -1,0 +1,25 @@
+[
+  {
+    "id": "HIRE-F94L-5170",
+    "userId": "usr_demo_1001",
+    "userName": "Jhon Martin",
+    "userPhone": "",
+    "vehicleId": "hire-01",
+    "vehicleName": "Toyota Allion 2021",
+    "vehicleType": "Sedan",
+    "vehicleImage": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=800&q=80",
+    "capacity": 4,
+    "pickupLocation": "Zindabazar Point",
+    "destination": "Ratargul Swamp Forest",
+    "travelDate": "2026-11-12",
+    "pickupTime": "08:00 AM",
+    "passengerCount": 3,
+    "estimatedFare": 2200,
+    "additionalNotes": "",
+    "status": "pending",
+    "createdAt": "2026-11-07T13:32:55.170Z",
+    "isDemo": true,
+    "driverAssigned": "Demo Driver (Driver details will be shared on confirmation)",
+    "demoNotice": "Demonstration journey request. No real driver dispatched."
+  }
+]

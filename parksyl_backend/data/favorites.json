@@ -1,0 +1,10 @@
+[
+  {
+    "userId": "usr_demo_1001",
+    "parkingIds": [
+      "prk-001",
+      "prk-002",
+      "prk-003"
+    ]
+  }
+]

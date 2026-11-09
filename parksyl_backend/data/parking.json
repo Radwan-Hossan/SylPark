@@ -1,0 +1,232 @@
+[
+  {
+    "id": "prk-001",
+    "name": "Premier City Center Parking",
+    "area": "Zindabazar",
+    "address": "202 Zindabazar Point, Sylhet City, Bangladesh",
+    "coordinates": {
+      "lat": 24.8978,
+      "lng": 91.8715
+    },
+    "pricePerHour": 40,
+    "rating": 4.8,
+    "reviewCount": 142,
+    "totalSpots": 50,
+    "availableSpots": 18,
+    "statusLevel": "Moderate",
+    "parkingType": "Covered",
+    "vehicleTypes": [
+      "Car",
+      "SUV",
+      "Bike"
+    ],
+    "facilities": [
+      "CCTV Surveillance",
+      "24/7 Security Guard",
+      "EV Charging Station",
+      "Fire Safety",
+      "Valet Assist"
+    ],
+    "openingHours": "24/7 Available",
+    "contactPhone": "+880 1711 002233",
+    "image": "https://images.unsplash.com/photo-1506521781263-d8422e82f27a?auto=format&fit=crop&w=800&q=80",
+    "description": "Prime central parking facility located at Zindabazar. Features multi-level covered bays, round-the-clock CCTV, and swift automated gate access.",
+    "isDemo": true
+  },
+  {
+    "id": "prk-002",
+    "name": "MetroPark Master Point",
+    "area": "Amberkhana",
+    "address": "Amberkhana Main Roundabout, Sylhet, Bangladesh",
+    "coordinates": {
+      "lat": 24.9036,
+      "lng": 91.8672
+    },
+    "pricePerHour": 35,
+    "rating": 4.7,
+    "reviewCount": 98,
+    "totalSpots": 40,
+    "availableSpots": 12,
+    "statusLevel": "Available",
+    "parkingType": "Multi-level",
+    "vehicleTypes": [
+      "Car",
+      "SUV",
+      "Microbus"
+    ],
+    "facilities": [
+      "CCTV Surveillance",
+      "Security Guard",
+      "Car Wash Facility",
+      "Wheelchair Access"
+    ],
+    "openingHours": "06:00 AM - 11:30 PM",
+    "contactPhone": "+880 1712 113344",
+    "image": "https://images.unsplash.com/photo-1590674899484-d5640e854abe?auto=format&fit=crop&w=800&q=80",
+    "description": "Spacious multi-level hub in the heart of Amberkhana with easy exit ramps to Airport Road and Subidbazar.",
+    "isDemo": true
+  },
+  {
+    "id": "prk-003",
+    "name": "DriveGuard Solutions Hub",
+    "area": "Subidbazar",
+    "address": "Subidbazar High School Road, Sylhet, Bangladesh",
+    "coordinates": {
+      "lat": 24.9012,
+      "lng": 91.854
+    },
+    "pricePerHour": 30,
+    "rating": 4.5,
+    "reviewCount": 76,
+    "totalSpots": 35,
+    "availableSpots": 8,
+    "statusLevel": "Almost Full",
+    "parkingType": "Covered",
+    "vehicleTypes": [
+      "Car",
+      "SUV",
+      "Bike"
+    ],
+    "facilities": [
+      "CCTV Surveillance",
+      "Security Guard",
+      "Covered Roof",
+      "Fire Extinguisher"
+    ],
+    "openingHours": "07:00 AM - 11:00 PM",
+    "contactPhone": "+880 1713 224455",
+    "image": "https://images.unsplash.com/photo-1573348722427-f1d6819fdf98?auto=format&fit=crop&w=800&q=80",
+    "description": "Secure covered parking facility in Subidbazar offering shade protection, active security staff, and reserved bays.",
+    "isDemo": true
+  },
+  {
+    "id": "prk-004",
+    "name": "Kumarpara SafePark Bay",
+    "area": "Kumarpara",
+    "address": "Kumarpara Point, Sylhet, Bangladesh",
+    "coordinates": {
+      "lat": 24.8932,
+      "lng": 91.879
+    },
+    "pricePerHour": 25,
+    "rating": 4.4,
+    "reviewCount": 64,
+    "totalSpots": 25,
+    "availableSpots": 14,
+    "statusLevel": "Available",
+    "parkingType": "Open",
+    "vehicleTypes": [
+      "Car",
+      "Bike"
+    ],
+    "facilities": [
+      "Security Guard",
+      "Well Lit Area",
+      "24/7 Access"
+    ],
+    "openingHours": "24/7 Available",
+    "contactPhone": "+880 1714 335566",
+    "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?auto=format&fit=crop&w=800&q=80",
+    "description": "Affordable open parking space located near Kumarpara junction with quick access to Naiorpul and Shibgonj.",
+    "isDemo": true
+  },
+  {
+    "id": "prk-005",
+    "name": "Mirabazar Commercial Park",
+    "area": "Mirabazar",
+    "address": "Mirabazar Commercial Tower, Sylhet, Bangladesh",
+    "coordinates": {
+      "lat": 24.8901,
+      "lng": 91.8845
+    },
+    "pricePerHour": 45,
+    "rating": 4.6,
+    "reviewCount": 110,
+    "totalSpots": 45,
+    "availableSpots": 21,
+    "statusLevel": "Available",
+    "parkingType": "Underground",
+    "vehicleTypes": [
+      "Car",
+      "SUV",
+      "Microbus"
+    ],
+    "facilities": [
+      "CCTV Surveillance",
+      "EV Charging Station",
+      "Security Guard",
+      "Elevator Access",
+      "Disabled Access"
+    ],
+    "openingHours": "08:00 AM - 10:00 PM",
+    "contactPhone": "+880 1715 446677",
+    "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=800&q=80",
+    "description": "Climate-controlled basement underground parking under Mirabazar shopping complex, complete with EV chargers.",
+    "isDemo": true
+  },
+  {
+    "id": "prk-006",
+    "name": "Shibgonj Plaza Smart Parking",
+    "area": "Shibgonj",
+    "address": "Shibgonj Bazar Main Road, Sylhet, Bangladesh",
+    "coordinates": {
+      "lat": 24.8915,
+      "lng": 91.896
+    },
+    "pricePerHour": 30,
+    "rating": 4.3,
+    "reviewCount": 52,
+    "totalSpots": 30,
+    "availableSpots": 9,
+    "statusLevel": "Moderate",
+    "parkingType": "Covered",
+    "vehicleTypes": [
+      "Car",
+      "Bike"
+    ],
+    "facilities": [
+      "CCTV Surveillance",
+      "Security Guard",
+      "Car Wash Facility"
+    ],
+    "openingHours": "07:00 AM - 11:00 PM",
+    "contactPhone": "+880 1716 557788",
+    "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=800&q=80",
+    "description": "Convenient shopping parking in Shibgonj plaza with fast turnarounds and vehicle wash services.",
+    "isDemo": true
+  },
+  {
+    "id": "prk-007",
+    "name": "Shahjalal Uposhohor Eco Park",
+    "area": "Shahjalal Uposhohor",
+    "address": "Main Block D, Shahjalal Uposhohor, Sylhet, Bangladesh",
+    "coordinates": {
+      "lat": 24.882,
+      "lng": 91.8785
+    },
+    "pricePerHour": 20,
+    "rating": 4.5,
+    "reviewCount": 88,
+    "totalSpots": 60,
+    "availableSpots": 35,
+    "statusLevel": "Available",
+    "parkingType": "Open",
+    "vehicleTypes": [
+      "Car",
+      "SUV",
+      "Bike",
+      "Microbus"
+    ],
+    "facilities": [
+      "CCTV Surveillance",
+      "Security Guard",
+      "Wide Entry Gate",
+      "24/7 Access"
+    ],
+    "openingHours": "24/7 Available",
+    "contactPhone": "+880 1717 668899",
+    "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80",
+    "description": "Large open-air parking ground in Uposhohor, ideal for extended parking, family vans, and visitors.",
+    "isDemo": true
+  }
+]

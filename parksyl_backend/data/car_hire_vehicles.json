@@ -1,0 +1,74 @@
+[
+  {
+    "id": "hire-01",
+    "name": "Toyota Allion 2021",
+    "type": "Sedan",
+    "capacity": 4,
+    "luggageCapacity": "2 Bags",
+    "ac": true,
+    "baseFare": 2200,
+    "fareBasis": "Per Day / Trip in Sylhet City",
+    "features": [
+      "Professional Driver",
+      "Air Conditioned",
+      "Clean Interior",
+      "Fuel Included"
+    ],
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=800&q=80",
+    "description": "Smooth and fuel-efficient sedan with courteous driver for city tours, wedding travels, or airport drops."
+  },
+  {
+    "id": "hire-02",
+    "name": "Toyota Noah Super GL",
+    "type": "Microbus",
+    "capacity": 7,
+    "luggageCapacity": "5 Bags",
+    "ac": true,
+    "baseFare": 3800,
+    "fareBasis": "Per Trip / Jaflong / Ratargul",
+    "features": [
+      "Experienced Highway Driver",
+      "Dual A/C",
+      "Foldable Seats",
+      "Ample Luggage"
+    ],
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&w=800&q=80",
+    "description": "Spacious family microbus suited for scenic day tours to Ratargul Swamp Forest, Jaflong, or Bisnakandi."
+  },
+  {
+    "id": "hire-03",
+    "name": "Toyota Hiace Grand Cabin",
+    "type": "Microbus",
+    "capacity": 12,
+    "luggageCapacity": "8 Bags",
+    "ac": true,
+    "baseFare": 4500,
+    "fareBasis": "Group Journeys & Corporate Trips",
+    "features": [
+      "High Roof Cabin",
+      "Chilled Dual A/C",
+      "Experienced Driver",
+      "PA Audio System"
+    ],
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&w=800&q=80",
+    "description": "Large passenger van for group outings, university study tours, and wedding parties in Sylhet division."
+  },
+  {
+    "id": "hire-04",
+    "name": "Mitsubishi Pajero Sport",
+    "type": "SUV",
+    "capacity": 7,
+    "luggageCapacity": "4 Bags",
+    "ac": true,
+    "baseFare": 5200,
+    "fareBasis": "Luxury Executive Trip",
+    "features": [
+      "Chauffeur in Uniform",
+      "Leather Seats",
+      "4WD Terrain Capability",
+      "Premium Sound"
+    ],
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=800&q=80",
+    "description": "Rugged yet luxurious 4x4 SUV suitable for hilly tea garden excursions in Sreemangal and luxury travels."
+  }
+]

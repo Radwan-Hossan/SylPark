@@ -1,0 +1,27 @@
+[
+  {
+    "id": "RENT-473M-5185",
+    "userId": "usr_demo_1001",
+    "userName": "Jhon Martin",
+    "userPhone": "",
+    "vehicleId": "rent-01",
+    "vehicleName": "Toyota Corolla Cross",
+    "category": "Compact SUV",
+    "vehicleImage": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=800&q=80",
+    "capacity": 5,
+    "transmission": "Automatic",
+    "fuelType": "Hybrid / Petrol",
+    "startDate": "2026-11-15",
+    "endDate": "2026-11-17",
+    "durationDays": 2,
+    "dailyRate": 4500,
+    "driverOption": "self-drive",
+    "driverFeePerDay": 0,
+    "totalPrice": 9000,
+    "additionalNotes": "",
+    "status": "pending",
+    "createdAt": "2026-11-07T13:32:55.185Z",
+    "isDemo": true,
+    "demoNotice": "Demonstration rental request for academic presentation. No real vehicle reserved."
+  }
+]

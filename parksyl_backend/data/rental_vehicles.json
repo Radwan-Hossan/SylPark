@@ -1,0 +1,58 @@
+[
+  {
+    "id": "rent-01",
+    "name": "Toyota Corolla Cross",
+    "category": "Compact SUV",
+    "capacity": 5,
+    "dailyPrice": 4500,
+    "transmission": "Automatic",
+    "fuelType": "Hybrid / Petrol",
+    "mileageLimit": "150 km/day",
+    "depositAmount": 10000,
+    "conditions": "Valid NID and Driving License required. Fuel paid by renter.",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=800&q=80",
+    "description": "Modern hybrid crossover SUV delivering high ground clearance, supreme comfort, and great fuel economy."
+  },
+  {
+    "id": "rent-02",
+    "name": "Toyota Premio 1.5X",
+    "category": "Sedan",
+    "capacity": 5,
+    "dailyPrice": 3200,
+    "transmission": "Automatic",
+    "fuelType": "Octane",
+    "mileageLimit": "180 km/day",
+    "depositAmount": 8000,
+    "conditions": "Minimum driver age 21. City and regional use permitted.",
+    "image": "https://images.unsplash.com/photo-1590362891991-f776e747a588?auto=format&fit=crop&w=800&q=80",
+    "description": "Elegant executive Japanese sedan offering smooth suspension, wood-trim interior, and plush seating."
+  },
+  {
+    "id": "rent-03",
+    "name": "Honda Vezel Hybrid Z",
+    "category": "SUV",
+    "capacity": 5,
+    "dailyPrice": 3800,
+    "transmission": "Automatic",
+    "fuelType": "Hybrid",
+    "mileageLimit": "160 km/day",
+    "depositAmount": 9000,
+    "conditions": "Self-drive or with-driver available. Pre-inspection mandatory.",
+    "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=800&q=80",
+    "description": "Sporty hybrid crossover with sporty steering feel, eco mode, and ample boot space for luggage."
+  },
+  {
+    "id": "rent-04",
+    "name": "Toyota Land Cruiser Prado TX",
+    "category": "Luxury SUV",
+    "capacity": 7,
+    "dailyPrice": 8500,
+    "transmission": "Automatic 4WD",
+    "fuelType": "Diesel",
+    "mileageLimit": "200 km/day",
+    "depositAmount": 20000,
+    "conditions": "Corporate and VIP hire. Driver option highly recommended.",
+    "image": "https://images.unsplash.com/photo-1541348263662-e0c8de4259ba?auto=format&fit=crop&w=800&q=80",
+    "description": "Dominant 4-wheel drive luxury SUV built to conquer any terrain with executive status and comfort."
+  }
+]
