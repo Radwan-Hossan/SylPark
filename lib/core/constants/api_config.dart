@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart' show kIsWeb;
 import 'package:shared_preferences/shared_preferences.dart';
 
 class ApiConfig {
@@ -23,9 +24,17 @@ class ApiConfig {
   }
 
   /// Get current API Base URL
+ // static String get baseUrl {
+   // return 'http://$_activeHost:$port/api';
+  //}
+
   static String get baseUrl {
-    return 'http://$_activeHost:$port/api';
+  if (kIsWeb) {
+    return 'http://localhost:$port/api';
   }
+
+  return 'http://$_activeHost:$port/api';
+}
 
   static String get currentHost => _activeHost;
   static bool get isEmulator => _isEmulator;

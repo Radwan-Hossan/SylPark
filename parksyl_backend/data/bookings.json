@@ -1,5 +1,33 @@
 [
   {
+    "id": "BK-FMJ7-2251",
+    "userId": "usr_demo_1001",
+    "userName": "Jhon Martin",
+    "userEmail": "demo@parksyl.com",
+    "parkingId": "prk-001",
+    "parkingName": "Premier City Center Parking",
+    "parkingArea": "Zindabazar",
+    "parkingAddress": "202 Zindabazar Point, Sylhet City, Bangladesh",
+    "parkingImage": "https://images.unsplash.com/photo-1506521781263-d8422e82f27a?auto=format&fit=crop&w=800&q=80",
+    "parkingCoordinates": {
+      "lat": 24.8978,
+      "lng": 91.8715
+    },
+    "pricePerHour": 40,
+    "vehicleType": "Car",
+    "vehiclePlate": "Sylhet-ka-223322",
+    "bookingDate": "2026-11-10",
+    "startTime": "12:09 PM",
+    "endTime": "6:09 PM",
+    "durationHours": 6,
+    "totalPrice": 240,
+    "notes": "",
+    "status": "ongoing",
+    "createdAt": "2026-11-10T06:10:22.251Z",
+    "isDemo": true,
+    "demoNotice": "Demonstration booking for academic evaluation. Not a live reservation."
+  },
+  {
     "id": "BK-0P4M-5145",
     "userId": "usr_demo_1001",
     "userName": "Jhon Martin",
@@ -46,9 +74,10 @@
     "endTime": "01:00 PM",
     "durationHours": 3,
     "totalPrice": 120,
-    "status": "ongoing",
+    "status": "cancelled",
     "createdAt": "2026-11-07T13:32:20.260Z",
-    "isDemo": true
+    "isDemo": true,
+    "cancelledAt": "2026-11-09T05:35:33.023Z"
   },
   {
     "id": "BK-4C2E-0098",
