@@ -7,7 +7,7 @@ class ApiConfig {
 
   // Default configuration
   // Physical phone default using current Wi-Fi IPv4
-  static const String defaultPhysicalPhoneHost = '192.168.0.109';
+  static const String defaultPhysicalPhoneHost = '192.168.0.101';
   static const String defaultEmulatorHost = '10.0.2.2';
   static const int port = 3000;
 

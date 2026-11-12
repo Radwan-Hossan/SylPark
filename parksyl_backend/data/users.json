@@ -17,5 +17,14 @@
     "passwordHash": "$2a$10$fWtTv4hEo27fVSMyq46rhO4Eu7IHz3w0jzTCjF7Y57x8qMWB7KDe2",
     "avatar": "",
     "createdAt": "2026-11-10T06:03:07.534Z"
+  },
+  {
+    "id": "usr_mwc23cvn5uu6l",
+    "name": "Radwan Hossan",
+    "email": "radwan234.cse.lu@gmail.com",
+    "phone": "01317154858",
+    "passwordHash": "$2a$10$xlBoJwlvlRz0WuFxrCB8MO5nSqUZkNc5nrB3T.xyD.4nSM21xAZ1i",
+    "avatar": "",
+    "createdAt": "2026-11-11T11:49:14.867Z"
   }
 ]
